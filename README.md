@@ -1,7 +1,6 @@
 # Breakthrough Therapy Designation Development Times Data
 
-Data files for the paper **Kathleen Miller, Aaron Kearsley, Ariel D. Stern, and Jennifer Kao. "FDA Breakthrough Therapy Designation Reduced
-Late-stage Drug Development Times." Health Affairs**. 
+Data files for the paper **Kathleen Miller, Aaron Kearsley, Ariel D. Stern, and Jennifer Kao. (2024) FDA Breakthrough Therapy Designation Reduced Late-stage Drug Development Times. _Health Affairs_, 43(7), 1003-1010.** [LINK TO PAPER]([url](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2023.00837))
 
 ## Accessing the research data 
 _Last update: June 9, 2024,_ _Author: Jennifer Kao_
