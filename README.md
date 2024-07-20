@@ -17,5 +17,8 @@ from the final study (e.g., contraceptives, contrast agents).
 ## Contact
 Please contact Jennifer Kao (jennifer.kao@anderson.ucla.edu) for any questions regarding the data.
 
-**Please see the paper for more information on the data. If you use these data sets, please CITE this paper as the data source.**
+**Please see the paper for more information on the data. If you use these data sets, please CITE this paper as the data source:**
+
+**Miller, K. L., Stern, A.D., Kearsley, A., & Kao, J. (2024). FDA Breakthrough Therapy Designation Reduced Late-Stage Drug Development Time. _Health Affairs_, 43(7), 1003-1010.**
+
 
